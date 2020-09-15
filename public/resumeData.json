@@ -1,76 +1,71 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Joshua Olorunnipa",
+    "occupation": "Web Developer with Vanilla JS && ReactJS",
+    "description": "Front End React Developer by Day, Freelancer and Designer by Night.",
+    "image": "IMG_2699.jpeg",
+    "bio": "My name is Joshua, I'm a Front End ReactJS Developer. Currently I'm working at on Freelance Projects and looking for new opportunities ",
+    "contactmessage": "Get in touch with me to receive further details, start a project or anything else.",
+    "email": "olorunnipaj@yahoo.com",
+    "phone": "+234 81 7602 2881",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "street": "3 Fake Street",
+      "city": "Lagos",
+      "state": "Nigeria",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.joshuarotimidev.com",
+    "resumedownload": "https://drive.google.com/file/d/1hmzUvxMTHgv0LQPu6iyv0JcC_2eUePg5/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/joshua-olorunnipa-4ab188141/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/joshua.rotimi/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/joshuarotimi",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here's a brief information about my skills",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Covenant University",
+        "degree": "BEng. Information and Communication Engineering",
+        "graduated": "July 2018",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
+        "company": "NAFDAC",
+        "title": "Quality Assurance Team Member",
+        "years": "January 2019 - October 2019",
         "description": "Teaching ReactJS to thousands of students."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Gems Consulting Company Limited",
+        "title": "Software Engineer Intern",
+        "years": "January 2017 - July 2017",
+        "description": "Deploying Microsoft CRM, a customer relationship software."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "70%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name": "Git",
@@ -78,7 +73,7 @@
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "25%"
       },
       {
         "name": "HTML5",
@@ -86,41 +81,29 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "40%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Budget App",
+        "category": "Expense Budget App built with React JS and Firebase",
+        "image": "expensify.png",
+        "url": "https://www.joshuarotimi.github.io/expensify-app"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon-clone.png",
+        "url": "https://clone-6e7c0.web.app"
       },
       {
         "title": "Airbnb Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "airbnb-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
     ]
   },

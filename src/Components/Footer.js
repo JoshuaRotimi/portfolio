@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+            <li>Modified with love by Joshua ♥️</li>
            </ul>
 
            <ul className="copyright">
@@ -28,7 +28,7 @@ class Footer extends Component {
            </ul>
 
         </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
+        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"/></a></div>
      </div>
   </footer>
     );

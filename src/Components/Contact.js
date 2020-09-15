@@ -7,12 +7,12 @@ const Contact = ({ data }) => {
    const [email, setEmail] = useState('');
    const [message, setMessage] = useState('');
 
-   console.log(data)
+   console.log(data);
 
     const handleClick = (e) => {
        e.preventDefault();
       window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
-    }
+    };
     
 
     return (
@@ -95,6 +95,6 @@ const Contact = ({ data }) => {
       </div>
    </section>
     );
-}
+};
 
 export default Contact;
