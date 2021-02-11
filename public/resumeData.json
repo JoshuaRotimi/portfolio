@@ -41,6 +41,12 @@
     ],
     "work": [
       {
+        "company": "Ventmode",
+        "title": "Front End Developer",
+        "years": "October 2020 - Present",
+        "description": "Building Ventmode Web application with modern frontend technologies "
+      },
+      {
         "company": "NAFDAC",
         "title": "Quality Assurance Team Member",
         "years": "January 2019 - October 2019",
@@ -95,10 +101,10 @@
         "url": "https://clone-6e7c0.web.app"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Airbnb Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://airbnb-clone-4028c.web.app"
+        "title": "Online Stop Shop",
+        "category": "Shopping App using Flutterwave API for payments",
+        "image": "Jumga.png",
+        "url": "https://jumga-76137.web.app"
       },
       {
         "title": "Payrail",
