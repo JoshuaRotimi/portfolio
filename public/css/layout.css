@@ -617,7 +617,7 @@ ul#nav li.current a { color: #F06000; }
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+    color: #fff;
 }
 #call-to-action .action {
    margin-top: 12px;
@@ -943,7 +943,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #fff;
    font-size: 14px;
    text-align: center;
    position: relative;
